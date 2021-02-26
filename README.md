@@ -12,7 +12,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 Import each CSV file into the corresponding SQL table. 
 
-3.** Data Analysis**
+3. **Data Analysis**
 Once you have a complete database, do the following:
 a. List the following details of each employee: employee number, last name, first name, sex, and salary.
 b. List first name, last name, and hire date for employees who were hired in 1986.
